@@ -1,0 +1,10 @@
+.nave1 {
+    text-align: center!important;
+}
+.none1 {
+    display: flex;
+    flex-direction: row;
+}
+.none2 {
+    display: flex;
+}
